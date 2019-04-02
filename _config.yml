@@ -1,1 +1,12 @@
+url: https://www.x-n.pw
+title: xhochn private space
+author: Felix Fröschlin
+description: > # this means to ignore newlines until "baseurl:"
+  My private github page
+
 theme: jekyll-theme-hacker
+markdown: kramdown
+encoding: UTF-8
+
+github_username: xhochn
+email: github@x-n.pw

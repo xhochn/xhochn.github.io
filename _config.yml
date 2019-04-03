@@ -17,8 +17,8 @@ minima:
   #date_format: "%b %-d, %Y"
   social:
     github: xhochn
-    rss: rss
     linkedin: felix-froeschlin-00ba0bb0
+    rss: rss
 
 header_pages:
  - about.md

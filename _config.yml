@@ -2,10 +2,12 @@
 title: xhochn private space
 author: Felix Fröschlin
 email: github@x-n.pw
+url: https://www.x-n.pw
 description: > # this means to ignore newlines until "baseurl:"
   My private github page
 
 theme: minima
+
 markdown: kramdown
 encoding: UTF-8
 lang: de_DE

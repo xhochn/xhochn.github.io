@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 show_excerpts: true
 
 theme: minima
-markdown: kramdown
+# markdown: kramdown
 encoding: UTF-8
 
 github_username: xhochn
@@ -16,7 +16,7 @@ email: github@x-n.pw
 google_analytics: UA-137522563-1
 
 minima:
-  date_format: "%b %-d, %Y"
+  #date_format: "%b %-d, %Y"
 
   # generate social links in footer
   social_links:

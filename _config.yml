@@ -13,11 +13,11 @@ show_excerpts: false
 google_analytics: UA-137522563-1
 
 minima:
+  date_format: "%Y-%m-%d %H:%M"
   social_links:
     github: xhochn
     linkedin: felix-froeschlin-00ba0bb0
     rss: rss
-  date_format: "%Y-%m-%d %H:%M"
 
 header_pages:
  - about.md

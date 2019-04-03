@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 theme: minima
 markdown: kramdown
 encoding: UTF-8
+lang: de_DE
 
 show_excerpts: false
 google_analytics: UA-137522563-1

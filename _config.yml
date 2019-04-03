@@ -6,7 +6,7 @@ url: https://www.x-n.pw
 description: > # this means to ignore newlines until "baseurl:"
   My private github page
 
-theme: minima
+theme: minima@master
 
 markdown: kramdown
 encoding: UTF-8

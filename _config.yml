@@ -19,7 +19,7 @@ minima:
   #date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  social_links:
+  social:
     #twitter: jekyllrb
     github:  xhochn
     rss: rss

@@ -10,15 +10,11 @@ theme: minima
 markdown: kramdown
 encoding: UTF-8
 
-github_username: xhochn
-github: xhochn
 email: github@x-n.pw
 google_analytics: UA-137522563-1
 
 minima:
   #date_format: "%b %-d, %Y"
-
-  # generate social links in footer
   social:
     github: xhochn
     rss: rss

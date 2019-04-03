@@ -4,6 +4,8 @@ author: Felix Fröschlin
 description: > # this means to ignore newlines until "baseurl:"
   My private github page
 
+show_excerpts: false
+
 theme: minima
 markdown: kramdown
 encoding: UTF-8
@@ -13,21 +15,29 @@ github: xhochn
 email: github@x-n.pw
 google_analytics: UA-137522563-1
 
-footer-links:
-  dribbble:
-  email: github@x-n.pw
-  facebook:
-  flickr:
-  github: xhochn
-  instagram: 
-  linkedin: 
-  pinterest:
-  rss: rss
-  twitter: 
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole: 
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    #twitter: jekyllrb
+    github:  xhochn
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: felix-froeschlin-00ba0bb0
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+header_pages:
+ - about.md
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem

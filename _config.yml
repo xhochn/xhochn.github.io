@@ -14,11 +14,11 @@ email: github@x-n.pw
 google_analytics: UA-137522563-1
 
 minima:
-  #date_format: "%b %-d, %Y"
   social_links:
     github: xhochn
     linkedin: felix-froeschlin-00ba0bb0
     rss: rss
+  #date_format: "%b %-d, %Y"  
 
 header_pages:
  - about.md

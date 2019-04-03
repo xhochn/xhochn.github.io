@@ -17,13 +17,13 @@ minima:
   date_format: "%Y-%m-%d %H:%M"
 
 github_username: xhochn
-linkedin_username: felix-froeschlin-00ba0bb0
+linkedin_username: xhochn
 rss: rss
 
 social:
   name: Felix Fröschlin
   links:
-    - https://www.linkedin.com/in/felix-froeschlin-00ba0bb0/
+    - https://www.linkedin.com/in/xhochn/
     - https://github.com/xhochn
     - https://keybase.io/xhochn
 

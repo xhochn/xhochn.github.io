@@ -1,16 +1,15 @@
 #url: https://www.x-n.pw
 title: xhochn private space
 author: Felix Fröschlin
+email: github@x-n.pw
 description: > # this means to ignore newlines until "baseurl:"
   My private github page
-
-show_excerpts: true
 
 theme: minima
 markdown: kramdown
 encoding: UTF-8
 
-email: github@x-n.pw
+show_excerpts: false
 google_analytics: UA-137522563-1
 
 minima:
@@ -18,7 +17,7 @@ minima:
     github: xhochn
     linkedin: felix-froeschlin-00ba0bb0
     rss: rss
-  date_format: "%Y-%m-%d %H:%M"  
+  date_format: "%Y-%m-%d %H:%M"
 
 header_pages:
  - about.md

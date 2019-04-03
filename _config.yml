@@ -15,7 +15,7 @@ google_analytics: UA-137522563-1
 
 minima:
   #date_format: "%b %-d, %Y"
-  social:
+  social_links:
     github: xhochn
     linkedin: felix-froeschlin-00ba0bb0
     rss: rss

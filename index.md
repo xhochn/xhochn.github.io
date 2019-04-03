@@ -6,8 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Welcome
 ---
-
-# Welcome to my page
 
 Nothing to see here...

@@ -1,3 +1,7 @@
-# About
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-me
+This is me...
